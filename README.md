@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvik75" alt="dhruvik75" /></a> </p>
 
-- 🔭 I’m currently working on **cloud Storage**
+- 🔭 I’m currently working on **traveling app**
 
-- 🌱 I’m currently learning **flutter,database**
+- 🌱 I’m currently learning **flutter,database,api**
 
-- 💬 Ask me about **Dart,java,html,css**
+- 💬 Ask me about **Dart,flutter,java,html,css**
 
 - 📫 How to reach me **dhruvikchandegara@gmail.com**
 
